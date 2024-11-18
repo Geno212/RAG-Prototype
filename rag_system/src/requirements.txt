@@ -1,0 +1,9 @@
+fastapi==0.98.0
+uvicorn==0.23.0
+aiofiles==23.1.0
+pydantic==1.10.11
+langchain==0.0.278
+openai==0.28.1
+chromadb==0.4.8
+pydantic-settings==2.2.1
+streamlit==1.27.2
